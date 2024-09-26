@@ -1,14 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Singh-Shivani/Food_Lab">
-    <img src="AppScreensAndPoster/FoodLab_App_Poster.png" alt="Logo"> 
-  </a>
-</p>
-
-<p align ="center"> 
-<i>A Food App using <a href="https://flutter.dev/">Flutter 💕</a> & <a href="https://firebase.google.com/">Firebase 🔥</a>  </i>
-<br><br>
-  
-## About the App 🥘
+  ## About the App 🥘
 
   - FoodLab is a App to post and view food blogs along with their recipes if you want 🤤!
   
@@ -20,12 +10,6 @@
   
   - And the delicious 🥳 part comes here, post your amazing mouth watering dishes 🤤 with cool pictures 😍 and make sure you write detail steps of the recipe 📝 so     that I and others can also try and enjoy 🤗.
   
-## Screens 😍
-<p align="center">
-<img src="AppScreensAndPoster/landing.png" height="400"/><img src="AppScreensAndPoster/login.png" height="400" hspace="20"/><img src="AppScreensAndPoster/signup.png" height="400" /><br><br>
-<img src="AppScreensAndPoster/home.png" height="400"/><img src="AppScreensAndPoster/post.png" height="400"hspace="20"/><img src="AppScreensAndPoster/profile.png" height="400" />
-</p>
-
 ## In Action 👀
 <p align="center">
   <a href="https://github.com/Singh-Shivani/Food_Lab">
